@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\bin\Debug\CA_1_twosum.exe.config
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\bin\Debug\CA_1_twosum.exe
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\bin\Debug\CA_1_twosum.pdb
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\obj\Debug\CA_1_twosum.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\obj\Debug\CA_1_twosum.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\obj\Debug\CA_1_twosum.exe
+C:\Users\Chuan\Project\CA_1_twosum\CA_1_twosum\obj\Debug\CA_1_twosum.pdb
